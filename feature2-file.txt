@@ -2,3 +2,4 @@ feature2 commit 1
 feature2 additional commit 1
 feature2 additional commit 1
 feature2 additional commit 1
+feature2 additional commit 2
